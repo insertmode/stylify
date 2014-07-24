@@ -1,7 +1,7 @@
 # stylify
 
 browserify v2 plugin for [stylus](https://github.com/LearnBoost/stylus).
-
+(this fork adds support for nib)
 
 [![NPM](https://nodei.co/npm/stylify.png)](https://nodei.co/npm/stylify/)
 
